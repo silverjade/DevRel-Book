@@ -1,7 +1,20 @@
 # [링크모음] 기업의 성공을 이끄는 Developer Relations
 
-업데이트 중입니다.
-https://www.marythengvall.com/devrelbook
+### 안녕하세요,<기업의 성공을 이끄는 Developer Relations>책을 찾아주셔서 감사합니다😊
+본 페이지는 현재 업데이트 중이며, 6월 3일 정식출간일에 완성된 페이지를 보실 수 있습니다. 
+
+**저자인 메리 셍발이 정리한 링크모음집은 아래 URL을 통해 확인하실 수 있습니다. **
+**https://www.marythengvall.com/devrelbook**
+
+원서에서, 몇몇 링크가 만료되거나 접근이 불가능하게 된 경우가 있어
+삭제하거나 이해를 도울 수 있는 다른 적절한 링크로 대체했습니다.
+
+원서에는 없지만 디벨로퍼 릴레이션을 이해하는데 더 도움되실 수있는
+추가 콘텐츠나 링크도 업데이트 할 예정입니다. 
+
+감사합니다.
+
+---
 
 1장
 p.7
@@ -149,53 +162,43 @@ p.198
 6　https://groups.drupal.org/colorado
 
 p.200
-발표와 관련해 좋은 자료를 찾고 있다면 아래를 참고하세요.
-·발표에 대한 라라 호건(Lara Hogan)의 저서(http://larahogan.me/speaking)
-· 스콧 버컨(Scott Berkun)의 이그나이트(Ignite) 강연 준비와 진행 방법에 대한 팁
+(http://larahogan.me/speaking)
 (http://scottberkun.com/2009/how-to-give-a-great-ignite-talk).
-이 팁은 긴 형식의 회담에도 적용할 수 있습니다.
-· 크리스티안 하일만(Christian Heilman)의 ‘말하면 안 되는 것’ 블로그 포스팅
 (https://christianheilmann.com/2016/07/06/things-not-to-say-on-stage-at-a-tech-event)
 
 p.201
-8　 저는 특히 이 글을 추천합니다.
+8　
 https://medium.com/devrel-life/the-art-of-the-conference-talk-proposal-3e97cd3bd33a
 
 p.203
-커뮤니티 펄스(Community Pulse)에서 PJ 제이슨과 비키 브라수어를 인터뷰해 좋은 발표 개요서를 제출하고 멋
-진 발표를 하는 방법에 대한 이야기를 들어보았습니다(http://communitypulse.io/23-cfps). 비키 브라수어는
-경이로운 발표자이며 오픈소스의 전설이자 놀라운 사람입니다. 트위터는 @vmbrasseur
+(http://communitypulse.io/23-cfps). 
 
 p.205
 1　https://dev.to/mary_grace/burnout-what-happens-when-you-take-on-too-much-74d
 2　https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4911781
 
 p.206
-burnout.io(https://burnout.io/en/latest/resources.html)에는 번어웃 관련 블로그 포스팅 링크와 커뮤
-니티 멤버들이 번아웃에 대해 이야기했던 내용(https://burnout.io/en/latest/furtherReading.html) 등
-좋은 리소스들이 모여 있습니다.
-4　 이에 대해서 입증된 것은 아니지만, 디벨로퍼 애드보케이트들의 여러 블로그 포스팅에서 살펴볼 수 있습니다. 실
-제로 제 커리어에서뿐 아니라 동료나 친구들에게서도 이러한 추세를 확인할 수 있었습니다.
+burnout.io(https://burnout.io/en/latest/resources.html)
+(https://burnout.io/en/latest/furtherReading.html)
+
 
 p.207
 5　https://medium.com/compassionate-coding/only-you-can-prevent-tech-burnout-be3f0504c627
 
 p.209
-6　 니콜 포스그렌(Nicole Forsgren)이 제즈 험블(Jez Humble), 진 킴(Gene Kim)과 함께 쓴 『엑셀러레이트
-(Accelerate)』는 비난 없는 회고와 데브옵스, 애자일에 대해 참고하기 좋은 책입니다.
+6　
 7　https://landing.google.com/sre/book/chapters/postmortem-culture.html
 
 p.210
 8　https://www.shrm.org/resourcesandtools/hr-topics/benefits/pages/unlimited-pto.aspx
 
 p.213
-9　 블로그 포스팅의 주 내용은 커리어에 관한 것이지만, 글을 반쯤 읽어보면 제가 언급한 책장 이미지가 나옵
-니다(https://waitbutwhy.com/2018/04/picking-career.html). 여기서 이미지만 참고해도 됩니다
+9　 (https://waitbutwhy.com/2018/04/picking-career.html). 
 (https://28oa9i1t08037ue3m1l0i861-wpengine.netdna-ssl.com/wp-content/2018/04/ganning-2.
 png).
 
 ----
-17　http://startitup.co/guides/374/aarrr-startup-metrics (연결안됨)
+17　
 AARRR! Pirate Metrics For Startups
 https://mcgaw.io/blog/aarrr-pirate-metrics-for-startups/#gs.0hthso 교체
 
