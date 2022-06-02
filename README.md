@@ -13,7 +13,7 @@
 이 사이트 역시 저자인 메리 셍발이 운영하고 있습니다.</br>
 원서에는 소개되지 않았지만, 데브렐에 대한 주제별 콘텐츠를 찾아보기 정말 좋습니다.</br>
 
-이 밖에도 원서에는 없지만 디벨로퍼 릴레이션을 이해하는데 더 도움되실 수있는</br>
+**이 밖에도 원서에는 없지만 디벨로퍼 릴레이션을 이해하는데 더 도움되실 수있는**</br>
 추가 콘텐츠나 링크를 계속해서 업데이트 할 예정입니다. 
 - 한국의 데브렐 사례와 콘텐츠는 [이쪽](https://github.com/silverjade/DevRel-Book/blob/main/k-devrel-case.md)
 - 원서엔 실리지 않았지만 도움이 될 자료들은 [여기](https://github.com/silverjade/DevRel-Book/blob/main/devrel-resource.md)를 참고하세요
