@@ -1,4 +1,4 @@
-# 원서에 실리지 않은 다양한 데브렐 자료를 소개합니다.
+# 원서에는 없는 자료를 추가해 소개합니다.
 
 [컨퍼런스] DevRelCon</br>
 https://developerrelations.com/devrelcon
