@@ -71,18 +71,18 @@ p.65</br>
 팟캐스트인 ‘Geek Whisperers’에서 만나 알게 되었습니다. 
 관련 에피소드는 링크를 참고하세요. http://geek-whisperers.com/2015/08/bringing-people-together-isnot-marketing-with-amy-hermes-ep-93
 
-- 다시 말씀드리지만, 이 책 곳곳에서 소개한 여러 도구를 다룰 때와 마찬가지로 두 가지 주의 사항이 있습니다. 
-1) 제가 소개한 도구들보다 여러분에게 더 적합한 것이 있을 수 있습니다. 
-2) 제가 언급한 도구들이 여러분에게는 적합하지 않을 수 있습니다. 
+- 다시 말씀드리지만, 이 책 곳곳에서 소개한 여러 도구를 다룰 때와 마찬가지로 두 가지 주의 사항이 있습니다.
+① 제가 소개한 도구들보다 여러분에게 더 적합한 것이 있을 수 있습니다. 
+② 제가 언급한 도구들이 여러분에게는 적합하지 않을 수 있습니다. 
 제가 강조한 원칙들을 바탕으로 여러분의 목표, 커뮤니티, 회사에 적합한 툴이 무엇인지 파악해보세요.
 
 p.67</br>
 저는 트위터를 예로 들어보려고 합니다. 그 이유는 현재 대부분의 개발자들이 사용하는 소셜 미디어 플랫폼이기 때문이기도 하고, 
 저의 가장 큰 전문 분야가 소셜 미디어 네트워크이기 때문입니다.
 
-p.68 (원서 링크가 깨져 대체)</br>
-발표 영상: https://youtu.be/-WSvqM23Z64
-인터뷰글: https://www.contagious.com/news-and-views/slacks-editorial-soul-anna-pickard-on-writing-the-brand-experience
+p.68</br> 
+- 발표 영상: https://youtu.be/-WSvqM23Z64
+- 인터뷰글: https://www.contagious.com/news-and-views/slacks-editorial-soul-anna-pickard-on-writing-the-brand-experience
 
 p. 69</br>
 이에 대해서는 댄 토마스의 팟캐스트에서 자세히 다루고 있습니다.</br>
