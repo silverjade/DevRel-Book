@@ -21,7 +21,7 @@
 감사합니다.
 
 ---
-#### INTRODUCTION
+### INTRODUCTION
 p.12 </br>
 성공적인 데브렐 팀을 갖기 위해 필요한 요소에 대해서는 아닐 대시(Amil Dash)가 쓴 '데브렐 권리장전(A Developer Relations Bill of Rights)'에서 더 자세히 살펴볼 수 있습니다.</br>
 https://medium.com/glitch/a-developer-relations-bill-of-rights-21381920e273
@@ -29,7 +29,7 @@ https://medium.com/glitch/a-developer-relations-bill-of-rights-21381920e273
 p.14 </br>
 https://twitter.com/matthewrevell/status/1003477945707462656
 
-#### 1장
+### 1장
 p.31</br>
 - https://businessdictionary.info/definition/community
 - https://www.merriam-webster.com/dictionary/community
@@ -49,14 +49,14 @@ How great leaders inspire action</br>
 https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 
 
-#### 2장
+### 2장
 p.51</br>
 https://www.projectsmart.co.uk/raci-matrix.php 에서 더 자세히 알아볼 수 있습니다.</br>
 
 p.61</br>
 댄 히스, 칩 히스 저. ‘Chapter 4: Point to the Destination. p 93.’ 『Switch: How to Change Things When Change Is Hard』(Random House US, 2011.)</br>
 
-#### 3장
+### 3장
 p.63</br>
 - 저와 제이슨 핸드, PJ 하제티가 함께 커뮤니티 전문가로서 여러 커뮤니티를 살펴보고 커뮤니티가 건강하게 잘 운영되고 있는지 관련 정보를 알려주는 팟캐스트의 이름이 ‘커뮤니티 펄스(Community Pulse)’인 이유이기도 합니다. communitypulse.io를 참고하세요.
 - 개발자를 위한, 개발자에 의한 이메일 전송 API. 저는 2년 동안 해당 API의 커뮤니티 전략을 수립했습니다.
@@ -92,7 +92,7 @@ p.77</br>
 벤 하펜, 제스 리, 피터 프랭크가 만든 Dev.to는 제가 개발자 커뮤니티 관련 일을 하면서 본 커뮤니티 중</br> 
 가장 사람들을 반겨주고 포용력을 가진 커뮤니티 중 하나였습니다. 트위터는 @thepracticaldev
 
-#### 4장
+### 4장
 p.79</br>
 https://github.com/RobSpectre/Talks/tree/master/Measuring%20Developer%20Evangelism
 
@@ -150,7 +150,7 @@ p.112
 맥킨지 포겔슨(Mackenzie Fogelson)이 한 말입니다.</br>
 https://mackfogelson.com
 
-#### 5장
+### 5장
 p.115</br>
 - https://www.quora.com/What-are-some-good-alternative-titles-to-Community-Manager
 - https://experts.feverbee.com/t/alternative-title-to-community-manager/5159/8
@@ -173,7 +173,7 @@ p.137</br>
 p.145</br>
 http://cmxhub.com/keystocommunityreadiness
 
-#### 6장
+### 6장
 p.152</br>
 제레미 프라이스(Jeremy Price)예요. 트위터는 @jermops입니다. 그와 함께할 수 있어 행운이에요!
 
@@ -212,7 +212,7 @@ p.163</br>
 (http://cameronmcefee.com/work/the-octocat)
 - http://www.extremeprogramming.org/rules/pair.html
 
-#### 7장
+### 7장
 p.171~173
 - https://twitter.com/mattklein123/status/949387830588948480
 - https://twitter.com/DrPizza/status/955552718126551041
@@ -246,7 +246,7 @@ https://medium.com/google-developers/the-core-competencies-of-developerrelations
 p.195</br>
 코드데이즈(CodeDaze) 2016에서 처음 만난 그녀는 저의 컨설팅 비즈니스에 도움을 주고 있기도 합니다. 트위터는 @rainleander
 
-#### 8장
+### 8장
 p.203</br>
 팁: 커뮤니티를 위한 콘퍼런스를 연다면, 소셜상의 친구와 동료들을 쉽게 알아볼 수 있도록 목걸이에 슬랙이나 트위터 아이디를 적어두는 것도 좋습니다.
 
@@ -279,7 +279,7 @@ p.227</br>
 http://communitypulse.io/23-cfps
 비키 브라수어는 경이로운 발표자이며 오픈소스의 전설이자 놀라운 사람입니다. 트위터는 @vmbrasseur
 
-#### 9장
+### 9장
 
 p.229
 - https://dev.to/mary_grace/burnout-what-happens-when-you-take-on-too-much-74d
@@ -320,7 +320,7 @@ https://en.wikipedia.org/wiki/T-shaped_skills
 p.251</br>
 https://medium.com/@ashleymcnamara/what-is-developer-advocacy-3a92442b627c
 
-#### 10장
+### 10장
 p.258</br>
 이 책을 집필하는 과정에 대해서는 다음과 같이 포스팅했습니다.</br>
 https://twitter.com/i/moments/983238008429133825
@@ -339,11 +339,11 @@ p.268
 - http://mhprompt.org
 - https://www.thagomizer.com/blog/2017/11/30/personal-brand.html
 
-#### Appendix.C
+### Appendix.C
 p.277</br>
 https://www.sparkpost.com/docs/getting-started/getting-started-sparkpost
 
-#### Appendix.E
+### Appendix.E
 
 p.281
 - 저는 아사나(Asana)를 주로 사용하며 트렐로, 에버노트, 지라를 사용하기도 합니다. 애자일하게 움직이기 위해 여러분에게 맞는 다른 툴들을 찾아보는 것도 좋습니다.
@@ -374,7 +374,7 @@ p.292</br>
 구글에서 ‘What is my IP address?’라고 검색하거나 다음 링크를 통해 확인할 수 있습니다.</br>
 https://whatismyipaddress.com
 
-#### Appendix.F
+### Appendix.F
 
 p.299</br>
 데브렐을 시작했을 때의 고군분투기를 마이크로소프트웨어 397호 ‘러닝커브’ 편에 <공부하는 개발자를 위해>라는 이름으로 기고했습니다. 개발 백그라운드가 없던 제가 개발자 커뮤니티와 소통하기 위해 어떤 노력을 했는지와 함께 당시 팀의 데브렐 활동도 자연스럽게 소개했습니다.
