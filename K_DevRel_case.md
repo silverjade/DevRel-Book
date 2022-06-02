@@ -1,6 +1,7 @@
-### 한국의 다양한 DevRel 사례, 콘텐츠를 소개합니다.
+# 한국의 다양한 DevRel 사례, 콘텐츠를 소개합니다.
 
 
+### 라이브 패널토크
 **[LIVE] 개발자가 만나는 DevRel(Developer Relations) 직원들의 다양한 삶**</br>
 https://youtu.be/JLBQCgN-HLA
 
