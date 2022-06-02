@@ -41,3 +41,6 @@ https://story.baemin.com/1410/
 
 [Blog] 개발자 PR/IR 활동, DR(Developer Relations) 활동을 시작하며</br>
 https://devocean.sk.com/blog/techBoardDetail.do?ID=162907
+
+[Blog] 회사에서 기술 블로그 쓰는 법
+https://alyselee.medium.com/%EB%B1%85%ED%81%AC%EC%83%90%EB%9F%AC%EB%93%9C-%EB%A7%88%EC%BC%93%EC%BB%AC%EB%A6%AC-%EB%9D%BC%EC%9D%B8%EC%9D%B4-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8%EB%A5%BC-%EC%9E%98-%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-9ccc15f37ea4
