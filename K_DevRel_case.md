@@ -2,14 +2,14 @@
 
 
 ### 라이브 패널토크
-**[LIVE] 개발자가 만나는 DevRel(Developer Relations) 직원들의 다양한 삶**</br>
+[LIVE] 개발자가 만나는 DevRel(Developer Relations) 직원들의 다양한 삶</br>
 https://youtu.be/JLBQCgN-HLA
 
-**[LIVE] Developer Relations, IT 기업이 개발자들과 가까워지는 방법**
+[LIVE] Developer Relations, IT 기업이 개발자들과 가까워지는 방법</br>
 https://youtu.be/Xw8IzUOTmfE
 
-**[LIVE] 2020 INNO-CON 개발 조직 문화 전문가 라이브 대담**
+[LIVE] 2020 INNO-CON 개발 조직 문화 전문가 라이브 대담</br>
 https://youtu.be/SyKK8U7rGxk
 
-**[LIVE] 개발자들이 가득한 세상에서 Developer Relations 일을 하고 있는 그녀들의 이야기(Fulll ver.)**
+[LIVE] 개발자들이 가득한 세상에서 Developer Relations 일을 하고 있는 그녀들의 이야기(Fulll ver.)</br>
 https://youtu.be/esqg5yCEGS8
