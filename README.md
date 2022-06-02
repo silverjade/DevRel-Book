@@ -15,6 +15,8 @@
 
 이 밖에도 원서에는 없지만 디벨로퍼 릴레이션을 이해하는데 더 도움되실 수있는</br>
 추가 콘텐츠나 링크를 계속해서 업데이트 할 예정입니다. 
+- 한국의 데브렐 사례와 콘텐츠 : https://github.com/silverjade/DevRel-Book/blob/main/K_DevRel_case.md
+- 원서엔 실리지 않았지만 도움이 될 자료들 :
 
 감사합니다.
 
