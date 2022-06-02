@@ -1,5 +1,8 @@
 # 한국의 다양한 DevRel 사례와 콘텐츠를 소개합니다.
 
+### 발표자료
+[PDF] 개발자와 기업을 잇는 Developer Relations
+https://www.slideshare.net/eunoakcho/developer-relationsfullverpdf
 
 ### 라이브 패널토크
 [LIVE] 개발자가 만나는 DevRel(Developer Relations) 직원들의 다양한 삶</br>
